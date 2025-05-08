@@ -1,6 +1,6 @@
 Nome:
-Victor hugo wille
-Mateus Scalabrin Neinas 
+Victor hugo wille, 
+Mateus Scalabrin Neinas,  
 Bruno Henrique Oliveira Garcia Gouvea
 
 Seminário: Programação Orientada a Objetos com C#
