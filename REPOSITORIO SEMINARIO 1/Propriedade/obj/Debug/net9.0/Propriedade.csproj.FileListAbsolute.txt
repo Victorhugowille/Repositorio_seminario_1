@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\bin\Debug\net9.0\Propriedade.exe
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\bin\Debug\net9.0\Propriedade.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\bin\Debug\net9.0\Propriedade.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\bin\Debug\net9.0\Propriedade.dll
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\bin\Debug\net9.0\Propriedade.pdb
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.dll
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\refint\Propriedade.dll
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.pdb
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\Propriedade.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\REPOSITORIO SEMINARIO 1\Propriedade\obj\Debug\net9.0\ref\Propriedade.dll
