@@ -1,3 +1,8 @@
+Nome:
+Victor hugo wille
+Mateus Scalabrin Neinas 
+Bruno Henrique Oliveira Garcia Gouvea
+
 Seminário: Programação Orientada a Objetos com C#
 
 Este repositório contém o código desenvolvido para o seminário sobre Validação de Regras de Negócio e Uso de Propriedades na Programação Orientada a Objetos com C#. Abaixo estão os detalhes dos principais conceitos abordados no código.
